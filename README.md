@@ -8,4 +8,4 @@ It needs numpy, nltk, sci-kit learn packages
 ## Couldn't upload glove.6B.100d.txt : Please get it from https://nlp.stanford.edu/data/glove.6B.zip 
 
 # Docker image
-https://cloud.docker.com/u/andrewmoses/repository/docker/andrewmoses/nlp_text_summarization
+https://hub.docker.com/r/andrewmoses/nlp_text_summarization
